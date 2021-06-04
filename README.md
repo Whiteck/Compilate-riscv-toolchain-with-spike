@@ -4,8 +4,8 @@
 
 Download the tar file from GDrive : https://drive.google.com/file/d/1pcwRpcoK2rO6ALekvHwzZqUXNn4iO87S/view?usp=sharing
 
-cp /home/user/Download/riscv_toolchain.tar.xf to /home/user/
-Cancel changes
+cp -r /home/user/Download/riscv_toolchain.tar.xf /home/
+
 tar -xf riscv_toolchain.tar.xf
 
 # Export PATH 
