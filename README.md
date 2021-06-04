@@ -9,7 +9,9 @@ tar -xf riscv_toolchain.tar.xf
 # Export PATH 
 
 export RISCV=/home/user/riscv_toolchain/
+
 export PATH=$PATH:$RISCV/bin/
+
 export PATH=$PATH:$RISCV/riscv32-unknown-elf/bin/
 
 # Compilate
